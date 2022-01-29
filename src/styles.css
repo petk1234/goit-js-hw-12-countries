@@ -1,0 +1,25 @@
+.country{
+    display: flex;
+}
+.country-info{
+    list-style: none;    
+}
+.country-language{
+
+}
+.flag{
+    margin-left: 20px;
+    width: 400px;
+    height: 200px;
+}
+.title{
+    display: inline-block;
+    width: 100%;
+    text-align: center; 
+}
+input{
+    display: block;
+    width: 400px;
+    height: 100%;
+    padding: 15px;
+}
